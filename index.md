@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Features
-changes: yes
 ---
 # 🚩 Features
 
